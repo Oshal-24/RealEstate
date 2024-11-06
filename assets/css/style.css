@@ -1,0 +1,126 @@
+
+.header{
+    background: url(../images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-blend-mode: multiply;
+    background-color: #a6a6a6;
+}
+.heading_topic{
+    padding : 150px 3px;
+    color:rgb(247, 248, 248);  
+}
+.cus_nav a img{
+    width : 53%;
+}
+.exchange i {
+    color: white;
+    font-size: 15px;
+}
+.exchange {
+    background-color: #21252985;
+    border-radius: 23px;
+    padding: 6px 11px;
+    margin: 0px 9px;
+}
+.exchange:hover i {
+    color: #070606 !important;
+}
+
+.exchange:hover {
+    background-color: #b91a1a;
+}
+.heart:hover i {
+    color: #070606 !important;
+}
+
+.heart:hover {
+    background-color: #b91a1a;
+}
+.profile:hover i {
+    color: #070606 !important;
+}
+
+.profile:hover {
+    background-color: #b91a1a;
+}
+.heart i{
+    color: white;
+    font-size: 15px;
+}
+.heart{
+        background-color: #21252985;
+        border-radius: 23px;
+        padding: 6px 11px;
+        margin: 0px 9px;
+   
+}
+.profile i{
+    color: white;
+    font-size: 15px;
+
+}
+.profile{
+    background-color: #21252985;
+        border-radius: 23px;
+        padding: 6px 11px;
+        margin: 0px 9px;
+   
+}
+.adlisting i {
+    color: white;
+}
+.adlisting {
+    background-color: #21252985;
+    border-radius: 27px;
+}
+a.btn.btn_home i {
+    margin-right: 8px;
+    font-size: 15px;
+}
+a.btn.btn_home {
+    color: #fff;
+    font-size: 15px;
+}
+nav.navbar.navbar-expand-lg.cus_nav ul li a.active {
+    border: 1px solid #fff;
+}
+.header_heading_area {
+    padding: 130px 0px;
+    color: #fff;
+}
+a.btn.btn_home:hover {
+    background-color: #0b354f;
+    color: #fff;
+    font-size: 16px;
+}
+.rent_heading {
+    text-align: center;
+}
+
+.property-card {
+    margin-bottom: 30px;
+}
+
+section.footer {
+    background-color: #303441;
+}
+
+section.footer {
+    background-color: #303441;
+    color: #fff;
+}
+.footerr_about {
+    padding-top: 20px;
+}
+.contact{
+    padding-top: 20px;
+}
+.footer_links{
+    padding-top: 20px;
+}
+
+.copyrights {
+    text-align: center;
+}
